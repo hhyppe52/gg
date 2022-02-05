@@ -1,0 +1,25 @@
+.asd{
+    color: rgb(255, 0, 0);
+}
+.zxc{
+    text-align: center;
+    background-color: rgb(160, 255, 209);
+    height: 70px;
+    width: auto;
+    padding: 0px;
+    font-size: 70px;
+}
+html{
+    background-color: rgb(201, 250, 226);
+    font-family: Bahnschrift;
+}
+img{
+    border-radius: 15%;
+ 
+}
+.aq{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+}
+ 
